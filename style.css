@@ -1,0 +1,18 @@
+header {
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+main {
+    background-color: blue;
+    border-radius: 5px;
+}
+body {
+    background-color: black;
+}
+#button1 {
+    border-radius: 7px;
+    background-color: blue;
+    border-color: darkblue;
+    color: skyblue;
+    font-weight: bold;
+}
