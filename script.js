@@ -1,5 +1,5 @@
 function button11old() {
-    document.getElementById("button1").innerHTML = "Dont click on this"
+    document.getElementById("button1").innerHTML = "Dont click on this please"
 }
 function button11new() {
     try {
