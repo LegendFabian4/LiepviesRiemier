@@ -5,8 +5,11 @@ function main() {
 
 }
 function easteregg(eastereggnum1){
-    if (eastereggnum1 == 1){
-        window.open("https://www.drummencustomguns.com")
+    if (eastereggnum1 == 1) {
+        window.open("https://sway.cloud.microsoft/Ukpr72gN5iF4yK4k?ref=Link")
+    }
+    else {
+        console.error("Unauthorized Easter Egg number")
     }
 }
 
