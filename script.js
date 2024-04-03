@@ -24,7 +24,7 @@ function button11new() {
 function button12() {
     try {
         while(true){
-            if (num1 == 4){
+            if (num1 == 9){
                 easteregg(1)
                 num1 = num1 + 100
                 console.log(num1)
